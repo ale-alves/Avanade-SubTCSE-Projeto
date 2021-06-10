@@ -1,2 +1,5 @@
-# Avanade-SubTCSE-Projeto
-Projeto criado durante o treinamento Full Stack.
+# Avanade-SubTCSE-Project 👩🏻‍💻
+## Project created during Full Stack training 
+
+### ▪ **Day 1**
+> Project creation
